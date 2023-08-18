@@ -51,7 +51,8 @@ public class App
             System.out.println("Enter a value between 1 and 4 ");
         }
 
-        SalaryService salaryService= new SalaryService();
+//        SalaryService salaryService= new SalaryService();
+
     }
 
 
